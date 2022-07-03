@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Antonio Gabriel, a.k.a. @Antognani
+- 👋 Hi, I’m Antonio Gabriel, also known as Antognani
 - 👨🏻‍💻 I’m interested in Web Development 
 - 📚 I’m currently learning JavaScript and PHP 
-- 🤝🏻 I’m looking to be able to collaborate on open source JS projects right after I learn more
+- 🤝🏻 I’m looking to be able to collaborate on open source projects as soon as possible
 - 📥 If you want to contact me, send a email to <antognani1@gmail.com> or dm me on Instagram @antognani
 
 <!---
