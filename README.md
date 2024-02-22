@@ -53,10 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/antognani/antognani/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="right">And below you can check my musical taste and see my face from other angle, if you care about it.</p>
 
 ###
