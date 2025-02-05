@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Antonio and I'm a Software Engineering Student, from Universidade Federal do Rio Grande do Norte, Natal, Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Antonio and I'm a Computer Science Student, from Universidade Federal do Rio Grande do Norte, Natal, Brazil.</h2>
 
 ###
 
