@@ -53,18 +53,6 @@
 
 ###
 
-<p align="center">And below you can check my musical taste and see my face from other angle, if you care about it.</p>
 
-###
-
-<img align="right" height="300" src="https://i.imgur.com/hrniFai.jpeg"  />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/canalantons14">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=canalantons14&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
