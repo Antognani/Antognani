@@ -49,7 +49,7 @@
 
 ###
 
-<p align="center">I study Software Engineering at UFRN, in Brazil. I am currently learning JavaScript and PHP with focus on web development, but I'm open to learn anything, so if you liked me and have an opportunity, be sure I can handle it. If you have any doubt, just contact me on any of my socials right above.</p>
+<p align="center">Software Engineering student @ UFRN, Brazil.</p>
 
 ###
 
